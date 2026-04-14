@@ -1,0 +1,16 @@
+# Local-only access material
+Access/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+
+# OS
+.DS_Store
