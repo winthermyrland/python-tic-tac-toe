@@ -1,5 +1,7 @@
-# Local-only access material
+# Local-only — never publish to GitHub
 Access/
+.claude/
+CLAUDE.md
 
 # Python
 __pycache__/
